@@ -62,5 +62,8 @@ The project will be refactored and expanded over time.
 ###
 
 <p align="left">
-  <img src="screenshott.png" alt="Snapshot of the Hunting the Manticore console game" width="300"/>
+  <img src="screenshots/screenshot.HTM.1.png" width="500"/>
+</p>
+<p align="left">
+  <img src="screenshots/screenshot.HTM.2.png" width="500"/>
 </p>
